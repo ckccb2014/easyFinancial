@@ -22,7 +22,7 @@
 		<springfox-swagger2.version>2.7.0</springfox-swagger2.version>
 		<lombok.version>1.18.2</lombok.version>
 		<springfox-swagger-ui.version>2.7.0</springfox-swagger-ui.version>
-		<fastjson>1.2.9</fastjson>
+		<fastjson>1.2.25.sec10</fastjson>
 	</properties>
 
 	<dependencies>
