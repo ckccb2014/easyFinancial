@@ -13,7 +13,7 @@
 	<artifactId>hunter</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>hunter</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Just for fun</description>
 
 	<properties>
 		<java.version>1.8</java.version>
@@ -22,6 +22,7 @@
 		<springfox-swagger2.version>2.7.0</springfox-swagger2.version>
 		<lombok.version>1.18.2</lombok.version>
 		<springfox-swagger-ui.version>2.7.0</springfox-swagger-ui.version>
+		<fastjson>1.2.9</fastjson>
 	</properties>
 
 	<dependencies>
@@ -55,7 +56,7 @@
 		<dependency>
 			<groupId>com.alibaba</groupId>
 			<artifactId>fastjson</artifactId>
-			<version>1.2.9</version>
+			<version>${fastjson}</version>
 		</dependency>
 		<dependency>
 			<groupId>org.projectlombok</groupId>
